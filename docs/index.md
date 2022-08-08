@@ -64,9 +64,9 @@ Interrogatório
 ## Checklist do Flagrante
 
 1. - [ ] Condutor 1ª Testemunha
-2. - [x] 2ª Testemunha
-3. - [x] Outras testemunhas (se houver)
-4. - [x] Inserir Constatador
+2. - [ ] 2ª Testemunha
+3. - [ ] Outras testemunhas (se houver)
+4. - [ ] Inserir Constatador
 5. - [ ] Termo de Promessa Legal
 6. - [ ] Auto de Constatação Provisório de drogas
 7. - [ ] Fotografar a droga na Balança
